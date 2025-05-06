@@ -2,14 +2,14 @@
 
 > 🚀 **Code Enthusiast | Problem Solver | Lifelong Learner**
 
-Welcome to my little corner of GitHub, where innovation meets creativity! I’m passionate about building robust solutions, learning new technologies, and making the digital world a better place—one commit at a time. 💻✨ 
+Welcome to my little corner of GitHub, where innovation meets creativity! I’m passionate about connecting with our developer community, learning new technologies, and making the digital world a better place—one commit at a time. 💻✨ 
 
 ---
 
 ## 🛠️ **What I Do**
 - **💼 Profession:** Developer Advocate at GitHub for our vibrant Education community ✨🏫🎒
 - **📚 Skills:** JavaScript, Cloud Architecture 
-- **🚀 Interests:** Security ( I spent about 16 years in professional services and sales in the IAM Security domain and the best practices learnt there still serve me well in my current role !)
+- **🚀 Interests:** Security ( I spent about 16 years in professional services + sales in the IAM Security domain and the best practices learnt there still serve me well in my current role !)
 
 ---
 
@@ -33,9 +33,3 @@ Welcome to my little corner of GitHub, where innovation meets creativity! I’m 
 
 ## 🌱 **Let’s Collaborate!**
 I’m always open to contributing to exciting projects or brainstorming innovative ideas. Let’s create something amazing together! 🚀
-
----
-
-✨ _"Code is like humor. When you have to explain it, it’s bad."_
-
----
