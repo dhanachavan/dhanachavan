@@ -23,9 +23,9 @@ I love storytelling, whether it’s on stage, online, or over a virtual coffee! 
 - **Shell Open Fest 2025**
 - **GitHub Constellation India 2024** – “Day in the Life of a Developer”
 - **Open Source India Summit Oct 2024**
-- **NASSCOM India** ([watch from 3:14:11 for peak Dhanashri energy!](https://www.youtube.com/watch?v=3rtItdsxjmM&list=PLlzNGEvTIKyT0XwiVDHGkEOXMr6nWBvj9&index=4))
+- **NASSCOM India** ([watch from 3:14:11 for peak Dhanashri energy!](https://www.youtube.com/watch?v=lCvZsEFzi3I))
 - **Microsoft Events**, countless EBCs, and probably your favorite tech conference!
-- **Co-host** at **GitHub Constellation India 2022** ([Day 1](https://www.youtube.com/watch?v=34YdIU4GQs4) & [Day 2](https://www.youtube.com/watch?v=E8AnrMWZZSk))
+- **GitHub Constellation India 2022** Co-host at  ([Day 1](https://www.youtube.com/watch?v=34YdIU4GQs4) & [Day 2](https://www.youtube.com/watch?v=E8AnrMWZZSk))
 
 ---
 
