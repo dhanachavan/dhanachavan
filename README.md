@@ -2,17 +2,23 @@
 
 > 🚀 **Curiosity Coder | Problem Solver | Forever student**
 
-Hi! I’m Dhanashri, your friendly neighborhood Developer Advocate, on a mission to make tech accessible, secure, and simply fun!! 
-I’m endlessly fascinated by the magic of AI — whether it’s coding with Copilot, exploring generative art, or building tools that learn along with us, I believe AI is not here to replace us, but to amplify our ideas and accelerate our learning.
+Hi! Iʼm Dhanashri, your friendly neighborhood Developer Advocate, on a mission to make tech accessible, secure, and simply fun!! 
+I specialize in enabling organizations to adopt cool solutions, particularly leveraging **AI-powered tools like GitHub Copilot** to drive innovation and productivity
+
+My journey to DevRel is built on a solid foundation:
+*   I bring **over 4 years of experience in sales** in the tech industry, which means I've spent a lot of time understanding how businesses use technology and what challenges they face
+*   I have a **strong technical background**, with over 12 years of experience as a Professional Services consultant and prior engineering roles. This helps me dig into the technical side deeply and quickly adapt to new environments
+*   I genuinely **love connecting with people** . Growing up in India and traveling extensively has given me a **global world view** and the ability to connect meaningfully with people from **diverse backgrounds and age groups**. This is super helpful for **building community**!
+*   My background also taught me to quickly **zero in on problems** and work really well with **different teams** to help find solutions. Call it **innovative problem-solving**
 
 Let’s build a future where humans and AI create, solve, and grow—together!💻✨ 
 
 ---
 
 ## 🛠️ **What I Do**
-- **💼 Profession:** Developer Advocate at GitHub for our vibrant Education community ✨🏫🎒
-- **📚 Skills:** Copilot, JavaScript, Cloud Architecture 
-- **🚀 Interests:** Security ( I spent about 16 years in professional services + sales in the IAM Security domain and the best practices learnt there still serve me well in my current role !)
+- **💼 Profession:** Dev Advocate @ GitHub (Education, Startups, Enterprises)
+- **📚 Passions:** AI tools, mentoring, and making tech a playground for all
+- **🚀 Interests:** Security ( I spent a large part of my career in the IAM Security domain and the best practices learnt there still serve me well in my current role !)
 
 ---
 
@@ -35,15 +41,6 @@ Check out some of my favorite on-screen moments:
 - [Overview of GitHub Code Scanning | Sep 2023](https://www.youtube.com/watch?v=nLHi1rZKUcU)
 - [Overview of GitHub’s Secret Scanning | Sep 2023](https://www.youtube.com/watch?v=AVB60Vn_uxI)
 - [A Day in the Life of a Developer on GitHub | Sept 2022](https://www.youtube.com/watch?v=3rtItdsxjmM&list=PLlzNGEvTIKyT0XwiVDHGkEOXMr6nWBvj9&index=4)
-
----
-
-## 🛠️ My Toolbox
-
-- **Role:** Dev Advocate @ GitHub (Education, Startups, Enterprises)
-- **Superpowers:** JavaScript, Cloud, Security (IAM/IBM), DevRel, Community Magic
-- **Passions:** Security best practices, AI tools, mentoring, and making tech a playground for all
-
 
 ---
 
