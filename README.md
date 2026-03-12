@@ -7,7 +7,7 @@ I specialize in enabling organizations to adopt cool solutions, particularly lev
 
 My journey to DevRel is built on a solid foundation:
 *   I bring **over 4 years of experience in sales** in the tech industry, which means I've spent a lot of time understanding how businesses use technology and what challenges they face
-*   I have a **strong technical background**, with over 12 years of experience as a Professional Services consultant and prior engineering roles. This helps me dig into the technical side deeply and quickly adapt to new environments
+*   I have a **strong technical background**, with 10 years of experience as a Professional Services consultant and prior engineering roles. This helps me dig into the technical side deeply and quickly adapt to new environments
 *   I genuinely **love connecting with people** . Growing up in India and traveling extensively has given me a **global world view** and the ability to connect meaningfully with people from **diverse backgrounds and age groups**. This is super helpful for **building community**!
 *   My background also taught me to quickly **zero in on problems** and work really well with **different teams** to help find solutions. Call it **innovative problem-solving**
 
@@ -16,7 +16,7 @@ Let’s build a future where humans and AI create, solve, and grow—together!�
 ---
 
 ## 🛠️ **What I Do**
-- **💼 Profession:** Dev Advocate @ GitHub (Education, Startups, Enterprises)
+- **💼 Profession:** CSA
 - **📚 Passions:** AI tools, mentoring, and making tech a playground for all
 - **🚀 Interests:** Security ( I spent a large part of my career in the IAM Security domain and the best practices learnt there still serve me well in my current role !)
 
